@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etAge" type="id" />
+    <item name="etName" type="id" />
+    <item name="btnRegister" type="id" />
+    <item name="btnDashboard" type="id" />
+    <item name="btnStartGame" type="id" />
+</resources>
